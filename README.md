@@ -12,7 +12,7 @@
 📚 Estudando Front-End e desenvolvimento Full Stack  
 📍 Atualmente em Sinop - MT 
 💻 Portfólio: [portifolio-daiane.vercel.app](https://portifolio-daiane.vercel.app/)  
-📫 Contato: **daiane.horbachdev@gmail.com*
+📫 Contato: *daiane.horbachdev@gmail.com*
 
 ---
 

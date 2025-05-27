@@ -11,7 +11,7 @@
 🎓 Desenvolvedora Back-End Junior com foco em Java, Spring e MySQL  
 📚 Estudando Front-End e desenvolvimento Full Stack  
 📍 Atualmente em Sinop - MT 
-💻 Portfólio: [portifolio-daiane.vercel.app](https://portifolio-daiane.vercel.app/)  
+💻 Portfólio: [daianehorbachdev.netlify.app](daianehorbachdev.netlify.app)  
 📫 Contato: *daiane.horbachdev@gmail.com*
 
 ---

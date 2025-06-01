@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Daiane 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=C97A84&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedora+Back-end+Java;Estudante+de+Full+Stack;Apaixonada+por+tecnologia+e+aprendizado!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=#a3618a&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedora+Back-end+Java;Estudante+de+Full+Stack;Apaixonada+por+tecnologia+e+aprendizado!" />
 </p>
 
 ---

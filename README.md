@@ -33,6 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 
@@ -61,3 +62,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiane-moreira-horbach/)
 [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/daianemh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daiane.horbachdev/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://daianehorbachdev.netlify.app/)
+

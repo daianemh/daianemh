@@ -53,7 +53,8 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=daianemh&theme=tokyonight&hide_border=false" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianemh&layout=compact&langs_count=7&theme=tokyonight"/>
+[  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianemh&layout=compact&langs_count=7&theme=tokyonight"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=daianemh&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=60
+)
 </div>
 
 ---

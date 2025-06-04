@@ -52,19 +52,20 @@
 
 <div align="center">
 
-  <!-- Streak (dias seguidos) -->
+  <!-- Contribuições diárias -->
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=daianemh&theme=tokyonight&hide_border=false" />
 
   <!-- Linguagens mais usadas -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianemh&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianemh&layout=compact&langs_count=8&theme=tokyonight"/>
 
-  <!-- Stats gerais -->
+  <!-- Estatísticas gerais -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daianemh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
 
-  <!-- Trophy (troféus do GitHub) -->
+  <!-- Troféus do GitHub -->
   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=daianemh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
+
 
 
 ---

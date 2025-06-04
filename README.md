@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=a3618a&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedora+Back-end+Java;Estudante+Full+Stack;Apaixonada+por+tecnologia+e+aprendizado!" />
 </p>
+
 ---
 
 ## 🚀 Sobre mim

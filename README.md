@@ -49,7 +49,7 @@
 - React e frameworks front-end modernos  
 - Desenvolvimento Full Stack com Java + React  
 - APIs RESTful e testes automatizados  
-- CI/CD e Deploy em nuvem (Render, Vercel)  
+- CI/CD e Deploy em nuvem   
 - UX/UI, acessibilidade e SEO
 
 ---

@@ -51,16 +51,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-## 🤖 Ferramentas de IA que utilizo
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
-![Manus](https://img.shields.io/badge/Manus%20AI-FF6C37?style=for-the-badge&logo=brain&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-0059FF?style=for-the-badge&logo=question&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-6C47FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
 ---
 ## 🌱 Em aprendizado contínuo
 

@@ -41,6 +41,8 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 
 ## 🖥️ Sistemas Operacionais
 
@@ -48,15 +50,26 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
----
 
+## 🤖 Ferramentas de IA que utilizo
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus%20AI-FF6C37?style=for-the-badge&logo=brain&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-0059FF?style=for-the-badge&logo=question&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-6C47FF?style=for-the-badge&logo=anthropic&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
 ## 🌱 Em aprendizado contínuo
 
+- Curso de Cibersegurança pelo programa JA Brasil/Cisco: fundamentos, técnicas de proteção e testes de vulnerabilidade  
 - React e frameworks front-end modernos  
 - Desenvolvimento Full Stack com Java + React  
-- APIs RESTful e testes automatizados  
-- CI/CD e Deploy em nuvem   
-- UX/UI, acessibilidade e SEO
+- APIs RESTful, testes automatizados e DevOps  
+- Deploy em nuvem, CI/CD  
+- UX, acessibilidade e SEO para aplicações web
 
 ---
 ## 📈 GitHub Stats

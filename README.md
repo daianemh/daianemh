@@ -19,8 +19,11 @@
 
 ## 🏅 Certificações & Conquistas
 
-- 📜 **Cisco Networking Basics** (JA Brasil/Cisco)  
-- 📜 **Cisco Introduction to Cybersecurity** (JA Brasil/Cisco)  
+- 📜 **Cisco Network Defense** 
+- 📜 **Cisco Endpoint Security** 
+- 📜 **Cisco Networking Devices and Initial Configuration** 
+- 📜 **Cisco Networking Basics** 
+- 📜 **Cisco Introduction to Cybersecurity** 
 - 🚀 Programa Oracle Next Education (ONE) – **Formação Back-End java**  
 
 ---
@@ -71,7 +74,7 @@
 
 ## 🌱 Em aprendizado contínuo
 
-- Curso de **Cibersegurança** pelo programa JA Brasil/Cisco: fundamentos, técnicas de proteção e testes de vulnerabilidade  
+- Curso de **Cibersegurança** pelo programa JA Brasil/Cisco: fundamentos, técnicas de proteção e testes de vulnerabilidade
 - React e frameworks front-end modernos  
 - Desenvolvimento Full Stack com Java + React  
 - APIs RESTful, testes automatizados e DevOps  

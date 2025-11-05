@@ -87,9 +87,6 @@
 
 <div align="center">
 
-  <!-- Contribuições diárias -->
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=daianemh&theme=tokyonight&hide_border=false" />
-
   <!-- Linguagens mais usadas -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianemh&layout=compact&langs_count=8&theme=tokyonight"/>
 

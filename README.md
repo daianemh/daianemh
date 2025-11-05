@@ -93,9 +93,6 @@
   <!-- Estatísticas gerais -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daianemh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
 
-  <!-- Troféus do GitHub -->
-  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=daianemh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
 </div>
 
 ---

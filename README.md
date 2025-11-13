@@ -75,7 +75,7 @@
 🔗 [Portfólio](https://daianehorbachdevciber.vercel.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/daiane-moreira-horbach/)  
 💻 [GitHub](https://github.com/daianemh)  
-📸 [![Instagram](https://img.shields.io/badge/@daiane.horbachdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daiane.horbachdev/)
+📸 [Instagram](https://www.instagram.com/daiane.horbachdev/)
 
 ---
 

@@ -1,27 +1,23 @@
 <h1 align="center">👋 Olá, eu sou a Daiane Horbach</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=8C6AA1&center=true&vCenter=true&width=650&lines=💻+Desenvolvedora+Back-End+Java;🔐+Estudante+de+Cibersegurança+pela+Cisco;🚀+Apaixonada+por+Tecnologia+e+Segurança+Digital;☕+Sempre+em+aprendizado+contínuo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=8C6AA1&center=true&vCenter=true&width=650&lines=💻+Desenvolvedora+Back-End+Java;🔐+Certificada+CCST+Cibersegurança+e+redes;🚀+Apaixonada+por+Tecnologia+e+Segurança+Digital;☕+Sempre+em+aprendizado+contínuo!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🏅 Certificações & Conquistas
 
-📚 **Cibersegurança (Cisco Networking Academy)**  
-- Cyber Threat Management • Network Defense • Endpoint Security  
-- Network Addressing & Troubleshooting • Networking Basics • Introduction to Cybersecurity  
+📚 **Cibersegurança e redes (Cisco Networking Academy)**  
 
 ☕ **Java & Back-End (Alura / Oracle ONE)**  
-- Java, Spring Boot, APIs REST, Spring Data JPA, Deploy e Boas Práticas  
-- Programação Orientada a Objetos e Projetos Full Stack  
 
 ---
 
 ## 🌱 Em aprendizado contínuo
-- Cibersegurança (JA Brasil / Cisco) 
-- Desenvolvimento Full Stack com Java     
-- IA aplicada ao desenvolvimento e produtividade com GPT  
+- Cibersegurança 
+- Desenvolvimento Java     
+  
 ---
 
 ## 🌐 Vamos nos conectar?
@@ -29,7 +25,6 @@
 🔗 [Portfólio](https://daianehorbachdevciber.vercel.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/daiane-moreira-horbach/)  
 💻 [GitHub](https://github.com/daianemh)  
-📸 [Instagram](https://www.instagram.com/daiane.horbachdev/)
 
 ---
 

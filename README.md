@@ -6,6 +6,11 @@
 
 ---
 
+## 🎓 Formação Acadêmica
+- 🎓 **Ciência da Computação (EAD)** — *em andamento*
+
+---
+
 ## 🏅 Certificações & Formação Técnica
 - 🔐 **CCST Cybersecurity** — Cisco Networking Academy  
 - 🌐 **CCST Networking** — Cisco Networking Academy  

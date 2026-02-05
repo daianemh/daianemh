@@ -15,7 +15,6 @@
 - 🔐 **CCST Cybersecurity** — Cisco Networking Academy  
 - 🌐 **CCST Networking** — Cisco Networking Academy  
 - ☕ **Back-End Java** — Oracle ONE / Alura  
-- 🗄️ **Fundamentos de Bancos de Dados e Programação** (Java, Python, MySQL)
 
 ---
 

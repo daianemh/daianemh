@@ -71,9 +71,6 @@
 
 - Desenvolvimento Back-End Java
 - Segurança da Informação
-- Perícia Forense Digital
-- Redes de Computadores
-- Lógica e Algoritmos
 - Desenvolvimento Seguro
 
 ---

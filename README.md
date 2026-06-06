@@ -1,97 +1,57 @@
 # 👋 Olá, eu sou a Daiane Horbach
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=8C6AA1&center=true&vCenter=true&width=750&lines=💻+Desenvolvedora+Back-End+Java;🔐+CCST+Cybersecurity+%26+Networking;🚀+Apaixonada+por+Tecnologia+e+Segurança+Digital;📚+Aprendizado+Contínuo+em+Desenvolvimento+e+Cibersegurança" />
-</p>
+> *"Segurança sólida começa com base técnica bem construída."*
 
 ---
 
-## 💫 Sobre mim
+## 🛡️ Sobre mim
 
-💻 Estudante de **Ciência da Computação** com foco em:
+Profissional em formação com foco em **Segurança da Informação** e atuação defensiva (**Blue Team**).
+Combino conhecimento em redes, cibersegurança e desenvolvimento Back-end Java para entender sistemas de ponta a ponta — do código à infraestrutura.
 
-- Desenvolvimento **Back-End Java**
-- Segurança da Informação
-- Redes de Computadores
-- Boas práticas e lógica de programação
-
-🎯 Atualmente em constante evolução na área de tecnologia, buscando unir desenvolvimento seguro, organização e aprendizado contínuo.
-
----
-
-## 🎓 Formação Acadêmica
-
-🎓 **Ciência da Computação (EAD)** — *em andamento*
+- 🔭 Objetivo: **Analista SOC Jr / Analista de Segurança da Informação Jr**
+- 🎓 Cursando **Ciência da Computação** (EAD)
+- 🌱 Estudando atualmente: SIEM, análise de logs, threat hunting e segurança ofensiva
+- ⚡ Diferencial: visão técnica de aplicações pelo lado do desenvolvimento **+** segurança
 
 ---
 
-## 🏅 Certificações & Formação Técnica
+## 🏅 Certificações
 
-- 🔐 **CCST Cybersecurity** — Cisco Networking Academy
-- 🌐 **CCST Networking** — Cisco Networking Academy
-- ☕ **Back-End Java** — Oracle ONE / Alura
-- 🛡️ Formação complementar em fundamentos de segurança digital, redes e desenvolvimento
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql,linux,vscode" />
-</p>
+| Certificação | Emissor |
+|---|---|
+| 🔐 CCST Cybersecurity | Cisco Networking Academy |
+| 🌐 CCST Networking | Cisco Networking Academy |
+| ☕ Back-End Java | Oracle ONE / Alura |
+| 🛡️ Network Defense | Cisco |
+| 🔒 Endpoint Security | Cisco |
+| ⚠️ Cyber Threat Management | Cisco |
+| 📜 LGPD | Fundação Bradesco |
 
 ---
 
-## 🌱 Atualmente estudando
+## 🚀 Stack & Ferramentas
 
-- Segurança ofensiva e defensiva
-- Redes e infraestrutura
-- APIs REST com Java
-- Cloud Computing
-- Fundamentos de perícia forense digital
-
----
-
-## 📚 Estudos & Livros Técnicos
-
-### ✅ Livros estudados / em leitura
-
-- 📘 *Entendendo Algoritmos* — Aditya Y. Bhargava
-- 📘 *Black Hat Python* — Justin Seitz & Tim Arnold
-- 📘 *Perícia Forense Digital* — Nihad A. Hassan *(em leitura)*
-
-### 📖 Próximas leituras
-
-- 📗 *Programador Autodidata* — Cory Althoff
-- 📗 *O Cientista da Computação Autodidata* — Cory Althoff
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🧠 Áreas de interesse
+## 📚 Leituras Técnicas
 
-- Desenvolvimento Back-End Java
-- Segurança da Informação
-- Desenvolvimento Seguro
+- ✅ *Entendendo Algoritmos* — Aditya Y. Bhargava
+- ✅ *Black Hat Python* — Justin Seitz & Tim Arnold
+- 📖 *Perícia Forense Digital* — Nihad A. Hassan *(em leitura)*
+- 📌 *Programador Autodidata* — Cory Althoff *(próxima)*
 
 ---
 
 ## 🌐 Vamos nos conectar?
 
-🔗 **Portfólio:**  
-https://daianehorbachdevciber.vercel.app/
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/daiane-moreira-horbach/
-
-💻 **GitHub:**  
-https://github.com/daianemh
-
----
-
-## ✨ Objetivo
-
-Construir uma carreira sólida em tecnologia, unindo desenvolvimento, segurança e aprendizado contínuo.
-
----
-
-### 🚀 “Tecnologia segura começa com código consciente.”
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiane-moreira-horbach/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9B59B6?style=for-the-badge&logo=vercel&logoColor=white)](https://daianehorbachdevciber.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daianemh)
